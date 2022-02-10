@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/styles/style.css</file>
+        <file>res/img/run_white.png</file>
+        <file>res/img/debug_white.png</file>
+        <file>res/img/debug_lite.png</file>
+    </qresource>
+</RCC>
